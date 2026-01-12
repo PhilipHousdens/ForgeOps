@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ForgeOps.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+908394648568d02a60c3f2a74ae14b9c13d98874")]
 [assembly: System.Reflection.AssemblyProductAttribute("ForgeOps.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ForgeOps.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

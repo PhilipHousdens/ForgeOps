@@ -5,6 +5,8 @@ var app = builder.Build();
 var version = Environment.GetEnvironmentVariable("APP_VERSION") ?? "dev";
 bool failMode = false;
 
+app.MapGet("/", () => "Welcome to ForgeOps API!");
+
 app.MapGet("/health", () =>
 {
     if (failMode)
